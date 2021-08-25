@@ -1,2 +1,1 @@
-# hello-world
-first repository
+learning how brunches works
